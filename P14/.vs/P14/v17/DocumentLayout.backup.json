@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LEO12\\Desktop\\Programming Languages Homework 4\\P14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4A6AFD-6091-44CD-B719-DA7B83B8A91C}|P14.vcxproj|C:\\Users\\LEO12\\Desktop\\Programming Languages Homework 4\\P14\\P14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E4A6AFD-6091-44CD-B719-DA7B83B8A91C}|P14.vcxproj|solutionrelative:P14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P14.cpp",
+              "DocumentMoniker": "C:\\Users\\LEO12\\Desktop\\Programming Languages Homework 4\\P14\\P14.cpp",
+              "RelativeDocumentMoniker": "P14.cpp",
+              "ToolTip": "C:\\Users\\LEO12\\Desktop\\Programming Languages Homework 4\\P14\\P14.cpp",
+              "RelativeToolTip": "P14.cpp",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-12T13:09:33.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
